@@ -8,24 +8,21 @@ weeks:
   - week_offset: 0
     homework:
       - title: "Syllabus Quiz"
-        out: M
+        out: W
       - title: "Basic Environment Setup Quiz"
         out: W
         starter_code: "quiz2"
-  - week_offset: 1
+      - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
+        starter_code: "lsp0"
+        out: W
     sessions:
-      - day: M
-        title: "Class cancelled for MLK Day"
-      - day: W  # Monday
+      - day: W  # Wednesday
         title: "Basic Calculations with Dr Racket"
         topics:
           - desc: "Course Introduction"
           - desc: "Questions"
           - desc: "Basic moving about"
           - desc: "Basic data types"
-          - desc: "Parentheses"
-          - desc: "Language documentation and help"
-          - desc: "Interactions & definitions windows"
         # pre_readings:
         #   - title: "Course Syllabus"
         #     link: "../syllabus/"
@@ -46,11 +43,31 @@ weeks:
           - title: "Calculating with images"
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
         extra_resources: []
+
+  - week_offset: 1
+    sessions:
+      - day: M
+        title: "Class cancelled for MLK Day"
+      - day: W  # Monday
+        title: "More Basic Calculations with Dr Racket"
+        topics:
+          - desc: "Parentheses"
+          - desc: "Language documentation and help"
+          - desc: "Interactions & definitions windows"
+        # pre_readings:
+        #   - title: "Course Syllabus"
+        #     link: "../syllabus/"
+        #   - title: "Ch 1, \"Animated Problem Solving\""
+        videos:
+          - title: "Comments"
+            link: "https://www.youtube.com/watch?v=E_epAELC8QM"
+          - title: "Stepping"
+            link: "https://www.youtube.com/watch?v=PCxZ7w-4EIs"
+          - title: "Calculating with images"
+            link: "https://www.youtube.com/watch?v=6wauy712RA4"
+        extra_resources: []
   - week_offset: 2
     homework:
-      - title: "HtDP Prologue Rocket Ship LargeSoftwareProject"
-        starter_code: "lsp0"
-        out: W
       - title: "First Functions ProblemSet"
         starter_code: "ps0"
         out: W
