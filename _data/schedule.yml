@@ -466,9 +466,9 @@ weeks:
     homework:
     sessions:
       - day: M  # Monday
-        title: "Big Daily Quiz"
+        title: "Exam 1"
         topics:
-          - desc: "Longitudinal Practice"
+          - desc: "Individual, paper exam"
       - day: W  # Wednesday
         title: "Aliens Attack v.5"
         topics:
