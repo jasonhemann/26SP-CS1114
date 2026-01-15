@@ -25,7 +25,7 @@ collaboration, and individual accountability.
 5. Develop familiarity with modern computer technology.
 6. Reinforce basic mathematics and logic skills
 
-## Coursework expectations 
+## Coursework expectations
 
 This semester I will "flip" some portion of the classes. That is to
 say, you will spend some of your in-class time working together in
@@ -37,11 +37,12 @@ your assignments. You *must* read assigned textbook material, and you
 
 Lecture periods will generally be instructional sessions and student
 Q&A. We will sometimes use class periods for group problem-solving
-"open group work" sessions. 
+"open group work" sessions.
 
 ## Contact
 
-- Personal, private (FERPA, etc) messages: [{{ site.author.emailaddr }}]({{ site.author.email }}). You should expect a response within 48 hours. More details about communicating with the instructor [here]({{ site.baseurl }}/instructor/).
+- Personal, private (FERPA, etc) messages: [{{ site.author.emailaddr }}]({{ site.author.email }}).
+You should expect a response within 48 hours. More details about communicating with the instructor [here]({{ site.baseurl }}/instructor/).
 
 A great regular way to reach out for help is via our [office hours]({{ site.baseurl }}/people/).
 
@@ -54,53 +55,57 @@ A great regular way to reach out for help is via our [office hours]({{ site.base
 
 ## Grading Breakdown
 
-- **Problem Sets**: 40%
-- **Problem Set Group Reflections**: 5%
-- **Quizzes**: 30%
-- **Large Software Projects**: 20%
-- **Tutoring Attendance**: 5%
-- **Course Evaluations**: 1%
+- **Problem Sets**: 25%
+- **Quizzes**: 35%
+- **Exams**: 20%
+- **Large Software Projects**: 15%
+- **Participation/Engagement/Tutoring attendance**: 5%
+
+Course evaluations do not directly affect your grade. However, if at
+least 85% of the course submits evaluations, I will add one GPA point
+to the overall course average.
+
 
 ## Course Components
 
 ### 1. **Problem Sets**
 
 - Expect (roughly) weekly problem sets.
-- These will generally be assigned every **Monday**.
-- Generally due **Thursday evening**, unless otherwise noted.
-- I will assign you to start working together on these in groups when will have time to start in class
-- Either way each student must submit individually; I will grade these individually
+<!--- These will generally be assigned every **Monday**.-->
+<!--- Generally due **Thursday evening**, unless otherwise noted.-->
+<!--- I will assign you to start working together on these in groups when will have time to start in class-->
+<!--- Either way each student must submit individually; I will grade these individually-->
 - I will check (possibly a subset of the) problems to ensure understanding and correctness.
 - These will measure correctness of design and structure, as much as correctness of implementation.
 
-### 2. **Problem Set Group Reflections**
+### 2. **Quizzes**
 
-- Submitted immediately after problem sets.
-- Please see the [reflection page]({{ site.baseurl }}/reflection/) for more details.
-
-### 3. **Quizzes**
-
-- Daily (or weekly, TBD) at the start of the class.
-- Duration: 10 minutes.
-- Take-home quizzes are possible if we do not have enough time; these will be due in 48 hours.
+- Approximately daily, at the start of the class.
+- Duration: ~10 minutes.
 - Paper and pencil quizzes. Be prepared and bring a pencil.
-- These can be code or content questions
-- Grades will be assigned as "Got it", "Mostly got it", "Substandard", "Missing/Absent"
+- These can be code or content questions.
 - Content based on recently assigned reading material and/or videos.
-- Cannot be made-up or retaken
-- I will drop your lowest five grades
+- Cannot be made-up or retaken.
+- I will drop your lowest five quiz grades
 - I may add other quizzes over the reading/videos to do asynchronously as you watch/read
 - These latter will be submitted via gradescope, but will also count as quizzes
+
+### 3. **Exams**
+
+There will be in-person exams to assess individual mastery.
+- Format: paper, in class
+- Allowed materials: none unless explicitly stated
+- Makeups: not generally provided except for documented university-approved absences
+- Dates and coverage will be announced at least one week in advance
+
 
 ### 4. **Large Software Project**
 
 - Textbook-based projects based upon the game developed in "Animated Problem Solving"
-- Pair programming assignments (pairs chosen by me)
-- Different extensions may be assigned to different groups.
-- Grade assigned to the pair.
-- Oral examination at some point(s) in the semester (see below)
+- Each project is submitted once per pair (one submission on Gradescope).
+- The grade is shared by the pair.
+- I may use oral assessments and/or in-class work to assess individual understanding and adjust credit if contributions are clearly unequal.
 - Generally ~two weeks to complete these assignments
-- Each student in the pair must submit; I will randomly choose *one* of you to grade.
 - If you decide you cannot work together on this assignment, you must let me know.
 
 #### Oral Assessments
@@ -116,52 +121,59 @@ designed that way. If you are so requested, this will account for 20%
 of your grade on the project. If you are working in a group, this will
 account for 20% of your group's grade on the project.
 
+
+### 5. **Participation/Engagement/Tutoring attendance**
+
+How engaged are you in class? How conversant are you in the topics as
+we discuss them, how ready are you to attend class? Are you on time
+and prepared? This will be a small component of your overall course
+grade.
+
+#### Class Participation
+
+Attendance is mandatory, but not sufficient. I will ask that you stay
+on topic and pay attention during lectures. If I or my learning
+assistants see that you are drifting, we will ask you to close your
+phone or laptop, and take paper notes.
+
+#### Tutoring attendance/Practice problems
+
+I have asked our tutors to pay attention to the students who attend
+tutoring regularly. Any out-of-class recitations count also as coming
+to tutoring that week.
+
+- If I assigned practice problems that are not otherwise graded, they
+  will ask to see your progress on these, and give you credit for
+  partly/mostly attempting them.
+
+- I may ask you to go by and demonstrate your knowledge and
+  understanding of some concept.
+
+- Otherwise demonstrate your progress on a current or upcoming
+  assignment or ask for help and clarification.
+
+
 ### Due Dates and times
 
-Assignments are due at 10:00pm on the date listed. No excuses or
-exceptions. You are welcome to submit as many times as you wish; I
-will grade your latest assignment before the deadline. I may add a
-small, randomly-varying amount of time to account for network latency;
-consider this your lenience. Anything that is submitted after that
-time will not be accepted. Your submissions must be through the
-approved submission system; submissions by other means (slipped under
-my door, etc.) will not be accepted. Please submit frequently, so that
-you do not miss the chance to turn in anything at all.
+Assignments are due at 10:00pm on the date listed. I may add a small,
+grace period of ~5m to account for network latency; consider this your
+lenience. No other exceptions or excuses. You are welcome to submit to
+the [submission dropbox](http://www.gradescope.com) as many times as
+you wish before it closes. Anything that is submitted after that time
+will not be accepted. I will grade your latest assignment before that
+t deadline. Your submissions should be through the approved submission
+system; I will not in general accept submissions by other means
+(slipped under my door, etc.). Please submit frequently, so that you
+do not miss the chance to turn in anything at all.
 
 ### Large Project partner, pair programming
-
-You will receive an email from me with your pair-partner for those
-large software projects. These will not be the same. Please reach out
-to that person, and contact them to begin work as soon as possible. If
-you do not get a response from them within 24 hours, let me know.
 
 If you are having a problem with a pair programming partner for the large
 software projects, please first have that uncomfortable discussion with
 them, in person if you can or by other means if you must. If you do
 not see immediate improvement, contact me. EXCEPTION: If at any point
 or time you feel uncomfortable or unsafe around a classmate or
-groupmate. 
-
-### Tutoring attendance/Practice problems
-
-I have asked our tutors to ensure that you attend tutoring (and that
-your TA marks you down for having sufficiently participated) at least
-once per week. Recitation counts as coming to tutoring that week.
-
-- If I assigned practice problems that are not otherwise graded, they
-will ask to see your progress on these, and give you credit for
-partly/mostly attempting them.
-- I may ask you to go by and demonstrate your knowledge and
-understanding of some concept.
-- Otherwise demonstrate your progress on a current or upcoming
-  assignment or ask for help and clarification.
-
-## Class Participation
-
-Attendance is mandatory, but not sufficient. I will ask that you stay
-on topic and pay attention during lectures. If I or my learning
-assistants see that you are drifting, we will ask you to close your
-phone or laptop, and take paper notes.
+programming partner.
 
 ## Course Evaluation
 
@@ -200,7 +212,7 @@ Misrepresentation of someone else's work as one's own is a grave
 violation of academic ethics.
 
 **Cheating** -- n. copying or submitting as your own, with or without
-consent, someone else’s work as your own.
+consent, someone else's work as your own.
 
 This includes, but is not limited to:
 - copying from someone else answers to questions during an exam
