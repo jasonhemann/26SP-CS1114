@@ -43,12 +43,11 @@ weeks:
           - title: "Calculating with images"
             link: "https://www.youtube.com/watch?v=6wauy712RA4"
         extra_resources: []
-
   - week_offset: 1
     sessions:
-      - day: M
+      - day: M  # Monday
         title: "Class cancelled for MLK Day"
-      - day: W  # Monday
+      - day: W
         title: "More Basic Calculations with Dr Racket"
         topics:
           - desc: "Parentheses"
@@ -142,7 +141,7 @@ weeks:
   - week_offset: 3
     homework:
       - title: "Designing with Conditionals Quiz"
-        out: W
+        out: M
     sessions:
       - day: M  # Monday
         title: "Aliens Coordinates; Making Decisions"
@@ -201,7 +200,7 @@ weeks:
     homework:
       - title: "Aliens Attack Version 1 LargeSoftwareProject"
         starter_code: "lsp1"
-        out: W
+        out: M
     sessions:
       - day: M  # Monday
         title: "Structured Data & Defining structs"
@@ -354,7 +353,7 @@ weeks:
           - title: "Ch 13, \"Animated Problem Solving\""
         extra_resources:
           - title: "Abstracting from Data Definitions"
-          - link: "https://www.youtube.com/watch?v=2qWQHhTxab8"
+            link: "https://www.youtube.com/watch?v=2qWQHhTxab8"
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
         topics:
@@ -428,7 +427,7 @@ weeks:
         starter_code: "ps4"
         out: M
       - title: "Aliens Attack v.4"
-        out: W
+        out: M
         starter_code: "lsp4"
     sessions:
       - day: M # Monday
@@ -484,12 +483,14 @@ weeks:
     homework:
       - title: "Lambda abstractions ProblemSet"
         starter_code: "ps5"
-        out: W
+        out: M
       - title: "Aliens Attack v.4 Resubmit"
-        out: W
+        out: M
         starter_code: "lsp4"
     sessions:
       - day: M  # Monday
+        title: "Class cancelled - school closed"
+      - day: W  # Wednesday
         title: "Objects, object-oriented programming"
         topics:
           - desc: "local blocks"
@@ -497,7 +498,9 @@ weeks:
           - desc: "selecting multiple behaviors"
           - desc: "local values, constructors"
           - desc: "object-oriented style programming"
-      - day: W  # Wednesday
+  - week_offset: 13
+    sessions:
+      - day: M  # Monday
         title: "Loops and pattern matching"
         topics:
           - desc: "\"Syntax Sugar\""
@@ -509,9 +512,8 @@ weeks:
           - title: "Intermezzo 3, Pt III, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/i3-4.html#%28part._.Pattern_.Matching%29"
           - title: "Ch. 24, \"Animated Problem Solving\""
-  - week_offset: 13
-    sessions:
-      - day: M  # Monday
+        extra_resources: []
+      - day: W  # Wednesday
         title: "Mutually Recursive Data"
         topics:
           - desc: ""
@@ -519,18 +521,15 @@ weeks:
           - title: "Ch. 18 \"Animated Problem Solving\""
           - title: "Ch. 19-§19.4 \"How to Design Programs\""
             link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
-        extra_resources: []
-      - day: W  # Wednesday
+  - week_offset: 14
+    homework:
+    sessions:
+      - day: M  # Monday
         title: "Interfaces"
         topics:
           - desc: "Designing an interface"
         pre_readings:
           - title: "Ch. 25, \"Animated Problem Solving\""
-  - week_offset: 14
-    homework:
-    sessions:
-      - day: M  # Monday
-        title: "Class cancelled - school closed" 
       - day: W  # Wednesday
         title: "Introduction to Distributed Programming"
         topics:
