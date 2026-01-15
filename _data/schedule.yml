@@ -157,7 +157,7 @@ weeks:
         pre_readings:
           - title: "Ch. 4 \"Animated Problem Solving\""
           - title: "Ch. 5 \"Animated Problem Solving\""
-        Videos:
+        videos:
           - title: "booleans and \"if\" expressions"
             link: "https://www.youtube.com/watch?v=G8zM3j4mg_Y"
           - title: "designing using a conditional"
@@ -248,7 +248,6 @@ weeks:
       - title: "Structures ProblemSet"
         out: M
         starter_code: "ps1"
-    homework:
       - title: "Aliens Attack Version 2 LargeSoftwareProject"
         out: M
         starter_code: "lsp2"
@@ -354,8 +353,8 @@ weeks:
             link: "https://htdp.org/2023-3-6/Book/part_two.html#%28part._ch~3alist-sort%29"
           - title: "Ch 13, \"Animated Problem Solving\""
         extra_resources:
-          title: "Abstracting from Data Definitions"
-          link: "https://www.youtube.com/watch?v=2qWQHhTxab8"
+          - title: "Abstracting from Data Definitions"
+          - link: "https://www.youtube.com/watch?v=2qWQHhTxab8"
       - day: W  # Wednesday
         title: "Aliens Attack v.4"
         topics:
@@ -372,7 +371,6 @@ weeks:
         extra_resources:
           - title: "Constructing Numbers"
             link: "https://www.youtube.com/watch?v=njf-am6PJ4A"
-          - title:
   - week_offset: 9
     homework:
     sessions:
@@ -521,9 +519,7 @@ weeks:
           - title: "Ch. 18 \"Animated Problem Solving\""
           - title: "Ch. 19-§19.4 \"How to Design Programs\""
             link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
       - day: W  # Wednesday
         title: "Interfaces"
         topics:
@@ -580,6 +576,4 @@ weeks:
           - desc: "Aliens Attack v.8"
         pre_readings:
           - title: "Ch. 28, \"Animated Problem Solving\""
-        extra_resources:
-          - title: ""
-            link: ""
+        extra_resources: []
