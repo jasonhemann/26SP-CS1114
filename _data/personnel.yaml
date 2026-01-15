@@ -4,32 +4,26 @@
 # Please fill yours in
 #
 # - name: Alyssa P. Hacker
-#   role: Teaching Assistant
-#   email: hackerap@shu.edu
-#   office: McQuaid Hall Room 102
-#   office_hours: Wednesdays 1-3pm
+#   role: Tutor / Learning Assistant
+#   email: first.last@student.shu.edu
+#   office_hours: M-Th 5:00-8:00pm
 
-- name: Oliwia Kempinski
-  role: Learning Assistant
-  email: oliwia.kempinski@student.shu.edu
-  office_hours: M 6pm-9pm, T 5pm-6:30pm, W 7:30pm-9pm
-  office_hours_location: AS 111
-
-- name: Abby Hall
+- name: Brysen Pfingsten
   role: Tutor
-  email: abigayle.hall@student.shu.edu
-  office_hours: M 5:00-9:00pm, T 5:00-7:00pm, W 5:00-9:00pm
-  office_hours_location: AS 111
+  email: brysen.pfingsten@student.shu.edu
+  office_hours: M-Th 5:00-8:00pm
 
-- name: Tijana Minic
+- name: David Fields
   role: Learning Assistant
-  email: tijana.minic@student.shu.edu
-  office_hours: M 4:30-7:00pm, T 5:00-7:00pm, W 4:30-7:00pm, R 5-6:30pm, F 12:30-2:00pm
-  office_hours_location: AS 111
+  email: davidanthony.fields@student.shu.edu
+  office_hours: M-Th 5:00-9:00pm
 
-- name: Skye Jorn
+- name: Sophia Turano
+  role: Learning Assistant
+  email: sophia.turano@student.shu.edu
+  office_hours: M/W 5:00-8:00pm | Tu/Th 6:00-9:00pm
+
+- name: Wyatt Arellano
   role: Tutor
-  email: skye.jorn@student.shu.edu
-  office_hours: M, W, R 5:00-7:00PM
-  office_hours_location: AS 111
-
+  email: wyatt.arellano@student.shu.edu
+  office_hours: M/W/Th 5:00-8:00pm | Tu 7:45-9:00pm
