@@ -329,14 +329,14 @@ weeks:
           - title: "Building w/cons in 3D"
             link: "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2F6rbq35occu441.jpg"
   - week_offset: 7
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "NONE - SPRING BREAK"
       - day: W  # Wednesday
         title: "NONE - SPRING BREAK"
   - week_offset: 8
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "Designing w/Lists"
@@ -371,7 +371,7 @@ weeks:
           - title: "Constructing Numbers"
             link: "https://www.youtube.com/watch?v=njf-am6PJ4A"
   - week_offset: 9
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "Trees, Mutual Recursion, and Cross-product templates"
@@ -419,7 +419,7 @@ weeks:
             link: "https://www.youtube.com/watch?v=FgyFS8sjiZo"
         extra_resources: []
   - week_offset: 10
-    homework:
+    homework: []
       - title: "Lists ProblemSet"
         out: M
         starter_code: "ps2"
@@ -463,7 +463,7 @@ weeks:
           - title: "Introduction to Local"
             link: "https://www.youtube.com/watch?v=UBWuHaetMxw"
   - week_offset: 11
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "Exam 1"
@@ -522,7 +522,7 @@ weeks:
           - title: "Ch. 19-§19.4 \"How to Design Programs\""
             link: "https://htdp.org/2020-8-1/Book/part_four.html#%28part._ch~3apoetry-sexp%29"
   - week_offset: 14
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "Interfaces"
@@ -567,7 +567,7 @@ weeks:
           - title: "Ch. 28, \"Animated Problem Solving\""
             link: ""
   - week_offset: 16
-    homework:
+    homework: []
     sessions:
       - day: M  # Monday
         title: "Aliens Attack v.8"

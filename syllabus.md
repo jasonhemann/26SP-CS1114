@@ -71,10 +71,8 @@ to the overall course average.
 ### 1. **Problem Sets**
 
 - Expect (roughly) weekly problem sets.
-<!--- These will generally be assigned every **Monday**.-->
-<!--- Generally due **Thursday evening**, unless otherwise noted.-->
-<!--- I will assign you to start working together on these in groups when will have time to start in class-->
-<!--- Either way each student must submit individually; I will grade these individually-->
+- Problem sets are typically posted on Mondays and due Thursdays at 10:00pm, unless
+  explicitly stated otherwise.
 - I will check (possibly a subset of the) problems to ensure understanding and correctness.
 - These will measure correctness of design and structure, as much as correctness of implementation.
 
@@ -92,7 +90,7 @@ to the overall course average.
 
 ### 3. **Exams**
 
-There will be in-person exams to assess individual mastery.
+There will be in-person exams to assess individual mastery. We will have a final exam, and one midterm. 
 - Format: paper, in class
 - Allowed materials: none unless explicitly stated
 - Makeups: not generally provided except for documented university-approved absences
@@ -161,7 +159,7 @@ lenience. No other exceptions or excuses. You are welcome to submit to
 the [submission dropbox](http://www.gradescope.com) as many times as
 you wish before it closes. Anything that is submitted after that time
 will not be accepted. I will grade your latest assignment before that
-t deadline. Your submissions should be through the approved submission
+deadline. Your submissions should be through the approved submission
 system; I will not in general accept submissions by other means
 (slipped under my door, etc.). Please submit frequently, so that you
 do not miss the chance to turn in anything at all.
