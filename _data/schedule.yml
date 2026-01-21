@@ -419,7 +419,7 @@ weeks:
             link: "https://www.youtube.com/watch?v=FgyFS8sjiZo"
         extra_resources: []
   - week_offset: 10
-    homework: []
+    homework:
       - title: "Lists ProblemSet"
         out: M
         starter_code: "ps2"
