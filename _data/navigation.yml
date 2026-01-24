@@ -17,6 +17,8 @@ sidebar-site-map:
     url: "https://www.gradescope.com/courses/1222553"
   - title: "Syllabus"
     url: /syllabus/
+  - title: "Viva"
+    url: /viva/
   - title: "Tech"
     url: /tech/
   - title: "Enrichment"

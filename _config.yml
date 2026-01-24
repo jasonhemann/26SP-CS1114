@@ -27,7 +27,7 @@ sourceurl                : "http://github.com/"
 repository               : "jasonhemann/26SP-CS1114"
 teaser                   : "/assets/images/500x300.png"
 logo                     : "" # "/assets/images/88x88.png"
-masthead_title           : "Spring 2026 CS1 "
+masthead_title           : "Spring 2026 CS1"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
