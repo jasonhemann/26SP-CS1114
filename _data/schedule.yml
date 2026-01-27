@@ -67,7 +67,8 @@ weeks:
         starter_code: "ps0"
         out: W
       - title: "Office hours Viva"
-        starter_code "functions-viva"
+        starter_code: "functions-viva"
+        out: W
     sessions:
       - day: M  # Monday
         title: Class cancelled - snow day
