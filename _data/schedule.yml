@@ -23,10 +23,10 @@ weeks:
           - desc: "Questions"
           - desc: "Basic moving about"
           - desc: "Basic data types"
-        # pre_readings:
-        #   - title: "Course Syllabus"
-        #     link: "../syllabus/"
-        #   - title: "Ch 1, \"Animated Problem Solving\""
+        pre_readings:
+          - title: "Course Syllabus"
+            link: "../syllabus/"
+          - title: "Ch 1, \"Animated Problem Solving\""
         videos:
           - title: "Download and install Dr Racket"
             link: "https://youtu.be/hkYfT6uhwJo"
@@ -53,10 +53,6 @@ weeks:
           - desc: "Parentheses"
           - desc: "Language documentation and help"
           - desc: "Interactions & definitions windows"
-        # pre_readings:
-        #   - title: "Course Syllabus"
-        #     link: "../syllabus/"
-        #   - title: "Ch 1, \"Animated Problem Solving\""
         videos:
           - title: "Comments"
             link: "https://www.youtube.com/watch?v=E_epAELC8QM"
@@ -70,19 +66,22 @@ weeks:
       - title: "First Functions ProblemSet"
         starter_code: "ps0"
         out: W
+      - title: "Office hours Viva"
+        starter_code "functions-viva"
     sessions:
       - day: M  # Monday
-        title: "Designing Functions I"
-        topics:
-          - desc: "Designing Functions"
-        pre_readings:
-          - title: "Ch 1, \"Animated Problem Solving\""
-          - title: "Ch 2, \"Animated Problem Solving\""
-        videos:
-          - title: "Parentheses and editing"
-            link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
-          - title: "Designing a 1-argument function"
-            link: "https://www.youtube.com/watch?v=smpKKKUyWR0"
+        title: Class cancelled - snow day
+        # title: "Designing Functions I"
+        # topics:
+        #   - desc: "Designing Functions"
+        # pre_readings:
+        #   - title: "Ch 1, \"Animated Problem Solving\""
+        #   - title: "Ch 2, \"Animated Problem Solving\""
+        # videos:
+        #   - title: "Parentheses and editing"
+        #     link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
+        #   - title: "Designing a 1-argument function"
+        #     link: "https://www.youtube.com/watch?v=smpKKKUyWR0"
 
       - day: W  # Wednesday
         title: "Functions, Design, and Manipulating Images"
@@ -92,6 +91,10 @@ weeks:
           - desc: "Table method"
           - desc: "Animation"
         pre_readings:
+          # Moved here b/c of snow day
+          - title: "Ch 1, \"Animated Problem Solving\""
+          - title: "Ch 2, \"Animated Problem Solving\""
+          # End moved here b/c of snow day
           - title: "Prologue, \"How to Design Programs\""
             link: "https://htdp.org/2023-3-6/Book/part_prologue.html"
           - title: "Ch 2 How to Design Programs"
@@ -113,6 +116,12 @@ weeks:
           - title: "Stepping functions"
             link: "https://www.youtube.com/watch?v=bCWJ-zj0Ni8"
         videos:
+          # Moved here b/c of snow day
+          - title: "Parentheses and editing"
+            link: "https://www.youtube.com/watch?v=SqJjI8D97U0"
+          - title: "Designing a 1-argument function"
+            link: "https://www.youtube.com/watch?v=smpKKKUyWR0"
+          # End moved here b/c of snow day
           - title: "Design Recipe Tips"
             link: "https://www.youtube.com/watch?v=0ZXhFbn-ZH4"
           - title: "Designing a 2-argument function"
