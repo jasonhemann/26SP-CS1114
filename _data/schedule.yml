@@ -152,6 +152,7 @@ weeks:
     homework:
       - title: "Designing with Conditionals Quiz"
         out: M
+        starter_code: "ps0.5"
     sessions:
       - day: M  # Monday
         title: "Aliens Coordinates; Making Decisions"
