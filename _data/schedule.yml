@@ -269,7 +269,7 @@ weeks:
           - desc: "Subtyping"
           - desc: "Errors and error handling"
           - desc: "format strings"
-          - desc: "stop-when? and ending games"
+          - desc: "stop-when and ending games"
         pre_readings:
           - title: "Ch 9, \"Animated Problem Solving\""
       - day: W  # Wednesday
