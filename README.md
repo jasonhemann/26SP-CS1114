@@ -1,35 +1,77 @@
-# Jason Hemann 1114 Course Website
+# CS1114 Course Website
 
-## Prerequisites 
+Course site built with Jekyll (GitHub Pages toolchain) and based on Minimal Mistakes.
 
-- `ruby`, `gem`, `bundle` all available on path
+## Required Toolchain
 
-## Building
+For local development and testing, install:
 
-From within this directory, execute `bundle exec jekyll serve`
+1. Ruby `3.3.4` (see [`.ruby-version`](.ruby-version))
+2. Bundler (Ruby gem package manager)
+3. Git
 
-## Data
+## Local Setup
 
-Filed under [./_data/](./_data) are information about:
-- [personnel](./_data/personnel.yml) (including email and OH)
-- [schedule](./_data/schedule.yml) 
-  - Course schedule for lectures
-  - "Out" dates for assignments
-  - Pre-reading and pre-watch for lectures
-  - Additional resources for material
-- [navigation](./_data/navigation.yml) for linking material to the course website
-- [assignment descriptions and starter code](./_starter_code/)
-  This has the assignments from class, and starter code where appropriate.
-  This information will be available as either a PDF or a .md file
+Install Ruby dependencies:
 
-## Schedule
+```bash
+bundle install
+```
 
-[schedule.md](./schedule.md) contains the code for generating a schedule page from the above yml file.
+Build the site once (CI-like check):
 
-This calculation makes several key assumptions, many of which do not generalize.
-1. It assumes that the year starts on a Sunday
-2. It assumes that a course starting in 202X ends in 202X; that is, a course does not extend into the next year. 
-3. I believe it assumes that DST always begins on a Sunday, between weeks, and that the semester never starts *during* the Fall back.
+```bash
+bundle exec jekyll build
+```
 
-## based on [Minimal Mistakes Jekyll theme](https://mmistakes.github.io/minimal-mistakes/)
+Run locally with live reload:
 
+```bash
+bundle exec jekyll serve --livereload
+```
+
+Then open: `http://127.0.0.1:4000/26SP-CS1114/`
+
+## Contributor Workflow (TAs)
+
+### 1) Add/update course personnel
+
+At the start of each semester, update [`_data/personnel.yaml`](_data/personnel.yaml).
+
+Each entry should include:
+
+- `name`
+- `role` (for example `Tutor`, `Learning Assistant`, `Instructor`)
+- `email`
+- `office_hours`
+
+The TA Staff table on [`people.md`](people.md) renders this file directly.
+
+### 2) Adjust syllabus content
+
+Primary syllabus source: [`syllabus.md`](syllabus.md)
+
+Typical loop:
+
+1. Edit `syllabus.md`
+2. Run `bundle exec jekyll serve --livereload`
+3. Review `http://127.0.0.1:4000/26SP-CS1114/syllabus/`
+4. Validate with `bundle exec jekyll build`
+
+### 3) Adjust schedule and assignment metadata
+
+Schedule data lives in [`_data/schedule.yml`](_data/schedule.yml), and the page template is [`schedule.md`](schedule.md).
+
+Starter files and assignment descriptions are under [`_starter_code/`](_starter_code/).
+
+Typical loop:
+
+1. Edit `_data/schedule.yml` and/or `_starter_code/*`
+2. Run local server (`bundle exec jekyll serve --livereload`)
+3. Review `http://127.0.0.1:4000/26SP-CS1114/schedule/`
+4. Validate with `bundle exec jekyll build`
+
+## Notes
+
+- The first `jekyll build`/`jekyll serve` on a new machine needs internet access to download the remote theme.
+- Inherited `.github` issue/PR filing templates from the upstream theme were intentionally removed for this course repo.
