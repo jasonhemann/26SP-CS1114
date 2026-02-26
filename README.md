@@ -18,12 +18,6 @@ Install Ruby dependencies:
 bundle install
 ```
 
-Build the site once (CI-like check):
-
-```bash
-bundle exec jekyll build
-```
-
 Run locally with live reload:
 
 ```bash
@@ -56,7 +50,6 @@ Typical loop:
 1. Edit `syllabus.md`
 2. Run `bundle exec jekyll serve --livereload`
 3. Review `http://127.0.0.1:4000/26SP-CS1114/syllabus/`
-4. Validate with `bundle exec jekyll build`
 
 ### 3) Adjust schedule and assignment metadata
 
@@ -69,9 +62,8 @@ Typical loop:
 1. Edit `_data/schedule.yml` and/or `_starter_code/*`
 2. Run local server (`bundle exec jekyll serve --livereload`)
 3. Review `http://127.0.0.1:4000/26SP-CS1114/schedule/`
-4. Validate with `bundle exec jekyll build`
 
 ## Notes
 
-- The first `jekyll build`/`jekyll serve` on a new machine needs internet access to download the remote theme.
+- The first `jekyll serve` on a new machine needs internet access to download the remote theme.
 - Inherited `.github` issue/PR filing templates from the upstream theme were intentionally removed for this course repo.
