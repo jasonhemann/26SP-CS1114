@@ -143,7 +143,7 @@ weeks:
           - title: "How to Design Functions, in slow motion"
             link: "https://www.youtube.com/watch?v=q6GwIWwKowU"
           - title: "BSL Table Design"
-            link: "https://htdp.org/2023-8-14/Book/part_one.html"
+            link: "https://github.com/samth/Beginning-Student-Tables"
           - title: "How to Design Functions (summary)"
             link: "https://docs.racket-lang.org/htdf/"
           - title: "The Design Recipe in short, for data and functions"
@@ -222,7 +222,7 @@ weeks:
           - desc: "Functions w/structured data"
         pre_readings:
           - title: "Ch 5, \"How to Design Programs\""
-            link : "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3astructure%29"
+            link : "https://github.com/samth/Beginning-Student-Tables#%28part._ch~3astructure%29"
         videos:
           - title: "Parts of a struct"
             link: "https://www.youtube.com/watch?v=k-Bvyh65Vy4"
@@ -279,7 +279,7 @@ weeks:
           - desc: "Structs and Variety"
         pre_readings:
           - title: "Ch 6, \"How to Design Programs\""
-            link: "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3amix%29"
+            link: "https://github.com/samth/Beginning-Student-Tables#%28part._ch~3amix%29"
           - title: "Ch 10, \"Animated Problem Solving\""
         videos:
           - title: "Intro to Unions"
