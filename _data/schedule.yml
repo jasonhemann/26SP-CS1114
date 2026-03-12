@@ -222,7 +222,7 @@ weeks:
           - desc: "Functions w/structured data"
         pre_readings:
           - title: "Ch 5, \"How to Design Programs\""
-            link : "https://github.com/samth/Beginning-Student-Tables#%28part._ch~3astructure%29"
+            link : "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3astructure%29"
         videos:
           - title: "Parts of a struct"
             link: "https://www.youtube.com/watch?v=k-Bvyh65Vy4"
@@ -279,7 +279,7 @@ weeks:
           - desc: "Structs and Variety"
         pre_readings:
           - title: "Ch 6, \"How to Design Programs\""
-            link: "https://github.com/samth/Beginning-Student-Tables#%28part._ch~3amix%29"
+            link: "https://htdp.org/2023-8-14/Book/part_one.html#%28part._ch~3amix%29"
           - title: "Ch 10, \"Animated Problem Solving\""
         videos:
           - title: "Intro to Unions"
